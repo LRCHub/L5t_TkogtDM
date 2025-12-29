@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "デーモンロード",
+  "base_artist": "Kanaria",
+  "createdAt": "2025-12-29T01:25:42.804747Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デーモンロード",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_01_デーモンロード_Kanaria.txt"
+    }
+  ]
+}
